@@ -31,5 +31,4 @@ The code is modular and designed to offer full control over data preprocessing, 
   - Number of training epochs
 - Saving and loading model weights and embeddings
 
-## Directory Structure
 
